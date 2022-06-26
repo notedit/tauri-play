@@ -1,0 +1,2 @@
+# tauri-play
+tauri  demo
